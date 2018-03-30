@@ -10,10 +10,8 @@
       <br>
       <li><a href="http://vuejs-templates.github.io/webpack/" target="_blank">Docs for This Template</a></li>
     </ul>
-    <h2>Ecosystem</h2>
-    <ul>
-      
-    </ul>
+    <h2>dsdasada</h2>
+    
   </div>
 </template>
 
